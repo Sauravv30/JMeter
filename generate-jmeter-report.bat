@@ -1,0 +1,1 @@
+E:\Workspace\HRS\apache-jmeter-5.6.3\bin\jmeter -n -t E:\Workspace\HRS\apache-jmeter-5.6.3\bin\User_API_Test.jmx -l \Workspace\HRS\hrs-jmeter.csv && E:\Workspace\HRS\apache-jmeter-5.6.3\bin\jmeter -g E:\Workspace\HRS\hrs-jmeter.csv -o E:\Workspace\HRS\Report
